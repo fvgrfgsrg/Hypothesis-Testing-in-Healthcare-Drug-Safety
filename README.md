@@ -4,17 +4,6 @@ Pharmaceutical drugs have become an essential part of our health. They need to b
 A pharmaceutical company GlobalXYZ has just completed a randomized controlled drug trial. To promote transparency and reproducibility of the drug's outcome, they (GlobalXYZ) have presented the dataset to your organization, a non-profit that focuses primarily on drug safety. The dataset provided contained five adverse effects, demographic data, vital signs, etc. Your organization is primarily interested in the drug's adverse reactions. It wants to know if the adverse reactions, if any, are of significant proportions. It has asked you to explore and answer some questions from the data.
 
 
-# The columns in the modified dataset are:
-
-sex	(The gender of the individual)
-age	(The age of the individual)
-week	(The week of the drug testing)
-trx	(The treatment (Drug) and control (Placebo) groups)
-wbc	(The count of white blood cells)
-rbc	(The count of red blood cells)
-adverse_effects	(The presence of at least a single adverse effect)
-num_effects	(The number of adverse effects experienced by a single individual)
-
 
 # For this project, the goals are to
 
